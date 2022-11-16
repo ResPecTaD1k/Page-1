@@ -1,0 +1,16 @@
+body
+{
+    background-color: red;
+}
+.container
+{
+    max-width: 1000px;
+    background: linear-gradient(to bottom, gray, blue);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 80vh;
+    font-family: sans-serif;
+    margin-top: 50px;
+}

@@ -1,0 +1,22 @@
+body {
+  background-color: red;
+}
+
+.container {
+  max-width: 1000px;
+  background: -webkit-gradient(linear, left top, left bottom, from(gray), to(blue));
+  background: linear-gradient(to bottom, gray, blue);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: auto;
+  height: 80vh;
+  font-family: sans-serif;
+  margin-top: 50px;
+}/*# sourceMappingURL=main.css.map */
